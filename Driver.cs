@@ -7,7 +7,7 @@ namespace Advent_Of_Code_2021
     {
         static void Main(string[] args)
         {
-            new Exercise_8();
+            new Exercise_12();
         }
     }
 }
